@@ -6,5 +6,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fair_s)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SincerelyFair)
 
-# Github Stats:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SincerelyFair&repo=github-readme-stats&theme=radical)](#)
+# Github Stats:      
+| [![ael-khni's GitHub stats](https://github-readme-stats.vercel.app/api?username=SincerelyFair&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/SincerelyFair?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SincerelyFair&layout=compact&hide_border=true&theme=jolly)](https://github.com/SincerelyFair?tab=repositories) |
+|:-:|:-:|
